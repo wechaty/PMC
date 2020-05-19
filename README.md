@@ -15,6 +15,6 @@ Project Management Committees
 
 ## Copyright & License
 
-- Code & Docs © 2019-now Huan LI (李卓桓) <zixia@zixia.net>
+- Code & Docs © 2016 Huan LI (李卓桓) <zixia@zixia.net>
 - Code released under the Apache-2.0 License
 - Docs released under Creative Commons

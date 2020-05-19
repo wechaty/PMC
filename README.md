@@ -5,6 +5,7 @@ Project Management Committees
 ## See Also
 
 - [Apache Project Management Commitees (PMC)](https://www.apache.org/foundation/how-it-works.html#pmc)
+- [步进式解读Apache许可证](https://mp.weixin.qq.com/s/_uyedP8LbuwSwj79GsI4Yw)
 
 ## Author
 

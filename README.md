@@ -1,6 +1,6 @@
-# PMC
+# Wechaty PMC
 
-Project Management Committees
+Wechaty Project Management Committee
 
 ## See Also
 

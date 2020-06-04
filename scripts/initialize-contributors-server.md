@@ -14,13 +14,13 @@ sudo sysctl -p
 # Docker
 sudo apt install docker.io
 groupadd wechaty
-setfacl -m group:wechaty:rw /var/run/docker.sock
 mkdir -p /home/wechaty
 cd /home/wechaty
 tar czv /var/lib/docker - | tar xv
 cd /var/lib
 mv docker docker.bak
 ln -s /home/var/lib/docker .
+setfacl -m group:wechaty:rw /var/run/docker.sock
 
 # Swap File
 sudo dd if=/dev/zero of=/swapfile bs=1024 count=4096000

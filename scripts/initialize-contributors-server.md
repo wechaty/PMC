@@ -4,7 +4,9 @@
 
 ```sh
 sudo apt update
-sudo apt install jq
+sudo apt install \
+  jq \
+  automake \
 
 # BBR
 sudo echo "net.core.default_qdisc=fq" >> /etc/sysctl.conf

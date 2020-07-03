@@ -42,8 +42,7 @@ Wechaty Project Management Committee
 
 ## Authors
 
-1. [Huan LI](http://linkedin.com/in/zixia), [@huan](https://github.com/huan), <zixia@zixia.net>
-    1. Tencent TVP of Chatbot
+1. [Huan LI](http://linkedin.com/in/zixia), [@huan](https://github.com/huan), PreAngel Partner, Tencent TVP of Chatbot.
     1. Talk Video: [Wechaty 101 - from v0.0 to v0.7, @huan, Dec 12, 2016](https://www.youtube.com/watch?v=39TteTtCkd4&list=PL8hd9KDTdarDXf_Rxtr8meKhxtgcXMInh&index=7)
     1. Talk Video: [Multi-language Wechaty Kickoff: Introduction, @huan, Apr 17, 2020](https://www.youtube.com/watch?v=ZX_Pb9fRwS4&feature=youtu.be&list=PL8hd9KDTdarDXf_Rxtr8meKhxtgcXMInh&t=165)
     1. Talk Video: [Introduce StateSwitch & Puppet Design, @huan, May 9, 2020](https://youtu.be/6VhrXaT7clQ?list=PL8hd9KDTdarDXf_Rxtr8meKhxtgcXMInh&t=3989)
@@ -51,8 +50,7 @@ Wechaty Project Management Committee
     1. Talk Video: [Wechaty项目和社区生态介绍, @huan, May 30, 2020](https://www.youtube.com/watch?v=tfGZXoe_aA4&feature=youtu.be&list=PL8hd9KDTdarDXf_Rxtr8meKhxtgcXMInh&t=385)
     1. Talk Video: [How to getting started with Multi-language Wechaty, @huan, Jun 19, 2020](https://www.youtube.com/watch?v=fluenDIHZec&list=PL8hd9KDTdarDXf_Rxtr8meKhxtgcXMInh&index=17&t=6170)
 
-1. [Jiarui LI](https://github.com/lijiarui)
-    1. Founder & CEO of Juzi.BOT
+1. [Jiarui LI](https://github.com/lijiarui), Founder & CEO of Juzi.BOT, Microsoft AI MVP.
     1. Talk Video: [Getting Started with Wechaty(Docker) - Live Coding Tutorial, @lijiarui, Dec 12, 2016](https://www.youtube.com/watch?v=IUDuxHaV9bQ&list=PL8hd9KDTdarDXf_Rxtr8meKhxtgcXMInh&index=6)
     1. Talk Video: [Wechaty 快速开始 (Live Coding), @lijiarui, Jul 18, 2018](https://www.youtube.com/watch?v=KO23WAlnPHg&list=PL8hd9KDTdarDXf_Rxtr8meKhxtgcXMInh&index=2)
     1. Talk Video: [Global AI Bootcamp 2019 - Beijing - 如何从0到1搭建 Chatbot, @lijiarui, Dec 22, 2019](https://www.youtube.com/watch?v=bdq8VNuHvVo&list=PL8hd9KDTdarDXf_Rxtr8meKhxtgcXMInh&index=2)

@@ -2,7 +2,7 @@
 
 Wechaty Project Management Committee
 
-![Project Management Committee](docs/images/management-committee.png)
+![Wechaty Community Organization](docs/images/wechaty-community-organization.png)
 
 ## See Also
 

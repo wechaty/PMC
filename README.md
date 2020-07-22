@@ -64,6 +64,6 @@ Wechaty Project Management Committee
 
 ## Copyright & License
 
-- Code & Docs © 2016 Huan LI (李卓桓) <zixia@zixia.net>
+- Code & Docs © 2016 Wechaty Contributors <https://github.com/wechaty>
 - Code released under the Apache-2.0 License
 - Docs released under Creative Commons

@@ -68,6 +68,14 @@ curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 sudo apt-get install -y nodejs
 ```
 
+## Web Service
+
+- [Simple Docker-enabled Proxy server with HTTP/2 and automated SSL management using Let's Encrypt](https://github.com/ayufan/auto-proxy)
+
+```
+docker run -d -p 80:80 -p 443:443 -v /etc/auto-proxy:/etc/auto-proxy -v /var/run/docker.sock:/var/run/docker.sock:ro ayufan/auto-proxy
+```
+
 ## Add Contributor
 
 ```sh

@@ -27,8 +27,19 @@ function teamId () {
 function members () {
   org=$1
   team=$2
-  curl -sH "Authorization: token $GITHUB_TOKEN"   \
-    "https://api.github.com/organizations/$(orgId $org)/team/$(teamId $org $team)/members?per_page=100"
+
+  page=1
+  while true; do
+    json=$(curl --fail -sH "Authorization: token $GITHUB_TOKEN" \
+                "https://api.github.com/organizations/$(orgId $org)/team/$(teamId $org $team)/members?per_page=100&page=${page}")
+    [ "$?" -ne 0 ] && break
+
+    length=$(echo "$json" | jq length)
+    [ "$length" -eq 0 ] && break
+
+    echo "$json"
+    page=$((page+1))
+  done
 }
 
 function memberId () {
